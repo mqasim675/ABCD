@@ -56,6 +56,7 @@ function PostList() {
   return (
     <div>
       <h1>Post List</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam mollitia dolorum quaerat ratione ea reprehenderit, maiores laudantium aliquam repudiandae officia. Distinctio beatae praesentium enim molestiae soluta reiciendis voluptates facere atque?</p>
       {/* ... (other JSX code) */}
     </div>
   );
